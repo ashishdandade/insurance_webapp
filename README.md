@@ -23,13 +23,3 @@ py manage.py makemigrations
 py manage.py migrate
 py manage.py runserver
 ```
-- Now enter following URL in Your Browser Installed On Your Pc
-
-
-## CHANGES REQUIRED FOR CONTACT US PAGE
-- In settins.py file, You have to give your email and password
-```
-EMAIL_HOST_USER = 'youremail@gmail.com'
-EMAIL_HOST_PASSWORD = 'your email password'
-EMAIL_RECEIVING_USER = 'youremail@gmail.com'
-```
