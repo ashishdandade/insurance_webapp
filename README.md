@@ -1,4 +1,6 @@
-### Designed and developed by ashish dandade
+### Designed and developed by ASHISH DANDADE
+### Homepage
+![homepage snap](https://github.com/ashishdandade/insurance_webapp/blob/master/static/image/homepage.png?raw=true)
 ## Functions
 ### Admin
 - Admin account can be created using createsuperuser command.
