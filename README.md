@@ -1,7 +1,13 @@
 ### Designed and developed by ASHISH DANDADE
 ### Homepage
 ![homepage snap](https://github.com/ashishdandade/insurance_webapp/blob/master/static/image/homepage.png?raw=true)
-## Functions
+### Admin Dashboard
+![dashboard snap](https://github.com/ashishdandade/insurance_webapp/blob/master/static/image/admin.png?raw=true)
+### Policy 
+![policy snap](https://github.com/ashishdandade/insurance_webapp/blob/master/static/image/policy.png?raw=true)
+### User
+![user snap](https://github.com/ashishdandade/insurance_webapp/blob/master/static/image/user.png?raw=true)
+## Functions 
 ### Admin
 - Admin account can be created using createsuperuser command.
 - After login, admin can view/update/delete customer
